@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[galeria ]]></data>
+
+
+
+  <data name="en_pano9_title"><![CDATA[0]]></data>
+
+
+  <data name="en_pano10_title"><![CDATA[1]]></data>
+
+
+  <data name="en_pano13_title"><![CDATA[2]]></data>
+
+
+  <data name="en_pano14_title"><![CDATA[3]]></data>
+
+
+  <data name="en_pano15_title"><![CDATA[4]]></data>
+
+
+  <data name="en_pano16_title"><![CDATA[5]]></data>
+
+
+  <data name="en_pano17_title"><![CDATA[6]]></data>
+
+
+  <data name="en_pano18_title"><![CDATA[7]]></data>
+
+
+  <data name="en_pano19_title"><![CDATA[8]]></data>
+
+
+  <data name="en_pano20_title"><![CDATA[9]]></data>
+
+
+  <data name="en_pano11_title"><![CDATA[10]]></data>
+
+
+  <data name="en_pano12_title"><![CDATA[11]]></data>
+
+
+
+
+
+
+  <data name="en_controlBar_roundedprevSceneTip"><![CDATA[Panorâmica anterior]]></data>
+  <data name="en_controlBar_roundednextSceneTip"><![CDATA[Próxima panorâmica]]></data>
+  <data name="en_controlBar_roundedzoomInTip"><![CDATA[Ampliar]]></data>
+  <data name="en_controlBar_roundedzoomOutTip"><![CDATA[Afastar]]></data>
+  <data name="en_controlBar_roundedmoveLeftTip"><![CDATA[Mover para  a esquerda]]></data>
+  <data name="en_controlBar_roundedmoveRightTip"><![CDATA[Mover par a a direita]]></data>
+  <data name="en_controlBar_roundedmoveUpTip"><![CDATA[Mover para cima]]></data>
+  <data name="en_controlBar_roundedmoveDownTip"><![CDATA[Mover para baixo]]></data>
+  <data name="en_controlBar_roundedopenFsTip"><![CDATA[Entrar para Ecrã Inteiro]]></data>
+  <data name="en_controlBar_roundedcloseFsTip"><![CDATA[Sair de Ecrã Inteiro]]></data>
+  <data name="en_controlBar_roundedautorotateOnTip"><![CDATA[Iniciar Auto-rotação]]></data>
+  <data name="en_controlBar_roundedautorotateOffTip"><![CDATA[Parar Auto-rotação]]></data>
+  <data name="en_controlBar_roundeddisplayHelpTip"><![CDATA[Mostrar Ecrã de Ajuda]]></data>
+  <data name="en_controlBar_roundedhideHelpTip"><![CDATA[Esconder Ecrã de Ajuda]]></data>
+  <data name="en_controlBar_roundeddisplayControlsTip"><![CDATA[Mostrar controles]]></data>
+  <data name="en_controlBar_roundedhideControlsTip"><![CDATA[Esconder controles]]></data>
+  <data name="en_controlBar_roundedctrlmodeDragTip"><![CDATA[Alterar modo de controle]]></data>
+  <data name="en_controlBar_roundedctrlmodeMoveTip"><![CDATA[Alterar modo de controle]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
